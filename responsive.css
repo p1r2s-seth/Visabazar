@@ -1,0 +1,178 @@
+@media only screen and (max-width: 600px)
+{
+
+.headerimg{
+  max-width: 65%;
+}
+
+.hero h1{
+  font-size: 6.5rem;
+}
+
+.titdes{
+  width: 84%;
+  margin-left: 10% !important;
+  font-size: 1.5rem;
+}
+
+.image-column{
+  margin-top: 40%;
+}
+
+.fnc-slide__heading-line{
+  font-size: 40px;
+}
+
+.fnc-slide__content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: -35%;
+}
+
+.card{
+  width: 70%;
+}
+
+.card-title{
+  font-size: 2.5rem;
+}
+
+.card-text{
+  font-size: 1.5rem;
+  margin-top: 5%;
+}
+
+.action{
+  display: none;
+}
+
+.search{
+  display: inline-flex;
+  margin-left: -10%;
+  margin-bottom: 10%;
+}
+
+.inpudet{
+  height: 40px;
+}
+
+.main{
+  display: inline;
+}
+
+.title-heading {
+  font-size: 2.6rem;
+  margin-bottom: 5%;
+}
+
+.title-heading1{
+  font-size: 2.3rem;
+}
+
+.map{
+  background: transparent;
+}
+
+}
+
+@media only screen and (max-width: 768px) and (min-width: 600px){
+
+.titdes{
+  width: 67%;
+  margin-left: 19% !important;
+  font-size: 2.5rem;
+}
+
+.image-column{
+  margin-top: 20%;
+}
+
+.fnc-slide__heading-line{
+  font-size: 70px;
+}
+
+.card{
+  width: 70%;
+}
+
+.card-title{
+  font-size: 3rem;
+}
+
+.card-text{
+  font-size: 2rem;
+  margin-top: 5%;
+}
+
+.action{
+  display: none;
+}
+
+.search{
+  display: inline-flex;
+  margin-left: 19%
+}
+
+.main{
+  display: inline;
+}
+
+.title-heading {
+  margin-bottom: 5%;
+}
+
+.map{
+  background: transparent;
+}
+
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+
+.titdes{
+  width: 72%;
+  margin-left: 16% !important;
+}
+
+.image-column{
+  margin-top: 40%;
+}
+
+.fnc-slide__heading-line{
+  font-size: 75px;
+}
+
+.card{
+  width: 90%;
+}
+
+  }
+
+
+@media only screen and (max-width: 1200px) and (min-width: 992px){
+
+.titdes{
+  width: 55%;
+  margin-left: 25% !important;
+}
+
+.card-title{
+  font-size: 1.6rem;
+}
+
+.card-text{
+  font-size: 1.3rem;
+}
+
+.image-column{
+  margin-top: 20%;
+}
+
+}
+
+@media only screen and (min-width: 1350px){
+
+
+
+}
